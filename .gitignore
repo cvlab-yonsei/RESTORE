@@ -1,0 +1,34 @@
+# ===== Python byte-compiled / cache =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== Packaging / build artifacts =====
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+wheels/
+
+# ===== Virtual environments =====
+.venv/
+venv/
+env/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== OS / editor =====
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# ===== Large external code / data (keep locally, do not commit) =====
+# LLaVA is cloned during install (see README)
+/LLaVA/
+# playground is a symlink to the (large) datasets / eval outputs
+playground
+/playground/
