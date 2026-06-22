@@ -123,7 +123,7 @@ If you find this work helpful, please consider citing it with the BibTeX below a
 ```bibtex
 @inproceedings{cho2026improving,
   title={Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference},
-  author={Cho, Hyeonwoo and Baek, DongHyeon and Kim, Yewon and Ham, Bumsub},
+  author={Cho, Hyeonwoo and Baek, Donghyeon and Kim, Yewon and Ham, Bumsub},
   booktitle={International Conference on Machine Learning},
   year={2026}
 }
